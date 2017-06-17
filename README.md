@@ -10,6 +10,7 @@ Setup:
   then it will be /usr/local/include.  If configure fails, add argument
   "--with-gmp=/usr/local" and try again.
   - Add path to .profile
+  - Building with gcc 4.9.4 instead of version specified in notes
 
 2) Install nasm with brew
 
