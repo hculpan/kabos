@@ -1,4 +1,6 @@
 *.o
 *.bin
+*.iso
+isodir
 .DS_Store
 
